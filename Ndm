@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moje hobby - Hanna DK</title>
+    <style>
+        body {
+            background-color: blue;
+            color: white;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+        }
+        img {
+            width: 200px;
+            height: 150px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Moje hobby - Hanna DK</h1>
+    <a href="tenis.html">
+        <img src="tenis.jpg" alt="Tenis">
+        <p>Tenis</p>
+    </a>
+    <a href="badminton.html">
+        <img src="badminton.jpg" alt="Badminton">
+        <p>Badminton</p>
+    </a>
+    <a href="jazda_konna.html">
+        <img src="jazda_konna.jpg" alt="Jazda konna">
+        <p>Jazda konna</p>
+    </a>
+</body>
+</html>
